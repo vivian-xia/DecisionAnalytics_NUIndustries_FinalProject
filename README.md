@@ -1,1 +1,3 @@
 # DecisionAnalytics_NUIndustries_FinalProject
+
+The goal of this project is to analyze the real-world problem using sensitivity analysis to make business recommendations. The NU Industries case stipulates the use of two manufacturing plants that produces three products. There are different demand requirements for each product for each of the five periods. Each plant has varying production requirements, inventory capacity, labor availbility, etc. There are also transporation, advertising, and raw material costs to consider based on the demand. The sensitivty analysis will optimize the problem to maximize profits for the company. 
